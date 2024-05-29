@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
 </p>
 
-<!-- 
+<!--
   技术栈标签, 小标签来自: https://shields.io/
   1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
@@ -35,6 +35,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
   <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/-Graphql-cf1322?style=flat&logo=graphql&logoColor=white"> -->
+</div>
+
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=24&pause=3000&color=F7CF5BCD&center=true&vCenter=true&random=false&width=435&lines=%E5%BA%94%E5%A6%82%E6%83%8A%E9%B8%BF%E7%82%B9%E4%B8%87%E9%87%8C%EF%BC%8C%E8%B5%B0%E9%A9%AC%E8%A7%82%E8%8A%B1%E4%B8%8D%E6%8A%98%E6%84%8F)](https://git.io/typing-svg)
 </div>
 
 <!-- 数据统计 -->
@@ -51,5 +55,3 @@ Here are some ideas to get you started:
 </div>
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&random=false&width=435&lines=%E5%BA%94%E5%A6%82%E6%83%8A%E9%B8%BF%E7%82%B9%E4%B8%87%E9%87%8C%EF%BC%8C%E8%B5%B0%E9%A9%AC%E8%A7%82%E8%8A%B1%E4%B8%8D%E6%8A%98%E6%84%8F)](https://git.io/typing-svg)
