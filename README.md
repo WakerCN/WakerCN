@@ -52,3 +52,4 @@ Here are some ideas to get you started:
 
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&random=false&width=435&lines=%E5%BA%94%E5%A6%82%E6%83%8A%E9%B8%BF%E7%82%B9%E4%B8%87%E9%87%8C%EF%BC%8C%E8%B5%B0%E9%A9%AC%E8%A7%82%E8%8A%B1%E4%B8%8D%E6%8A%98%E6%84%8F)](https://git.io/typing-svg)
