@@ -19,3 +19,7 @@ Here are some ideas to get you started:
   </h1>
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WakerCN&show_icons=true&theme=transparent" /> 
+</div>
