@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 <!-- 数据统计 -->
 <span>
-  <img margin="0 10px 0 0" height="140px" src="https://github-readme-stats.vercel.app/api?username=WakerCN&show_icons=true&theme=dracula&hide=contribs,prs" />
+  <img margin="0 10px 0 0" height="140px" src="https://github-readme-stats.vercel.app/api?username=WakerCN&show_icons=true&theme=dracula&hide=contribs,prs&hide_border=true" />
 </span>
 <span>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakerCN&layout=compact&theme=dracula" /> 
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakerCN&layout=compact&theme=dracula&hide_border=true" /> 
 <span>
