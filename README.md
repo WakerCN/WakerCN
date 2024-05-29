@@ -58,3 +58,8 @@ Here are some ideas to get you started:
     <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakerCN&layout=compact&theme=dracula&hide_border=true" /> 
   </span>
 </span>
+
+<p>
+  <h2>最近30天动态</h2>
+  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=WakerCN&theme=dracula"/>
+</p>
