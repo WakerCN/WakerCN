@@ -61,5 +61,5 @@ Here are some ideas to get you started:
 
 <p>
   <h2>最近30天动态</h2>
-  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=WakerCN&theme=dracula"/>
+  <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=WakerCN&theme=dracula"/>
 </p>
