@@ -50,12 +50,9 @@ Here are some ideas to get you started:
 </p>
 
 <!-- 数据统计 -->
-<div align="center"style="width:100%;display:flex; align-items:center; justify-content:center;">
-  <div style="flex: 1;" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=WakerCN&show_icons=true&theme=dracula" /> 
-  </div>
-  <div style="flex: 1;" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakerCN&layout=compact" /> 
-  </div>
-</div>
-
+<span>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=WakerCN&show_icons=true&theme=dracula&hide=contribs,prs" />
+</span>
+<span>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakerCN&layout=compact&theme=dracula" /> 
+<span>
