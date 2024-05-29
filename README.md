@@ -13,17 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 标题 -->
 <p align="center">
   <h1 height="200px" align="center">
     God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm StarOne
   </h1>
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WakerCN&show_icons=true&theme=dracula" /> 
-</div>
-
 
 <!-- 
   技术栈标签, 小标签来自: https://shields.io/
@@ -40,6 +36,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/-Graphql-cf1322?style=flat&logo=graphql&logoColor=white"> -->
 </div>
+
+<!-- 数据统计 -->
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white"> -->
@@ -47,3 +45,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
   <!-- <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint"> -->
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WakerCN&show_icons=true&theme=dracula" /> 
+</div>
+
+
+
