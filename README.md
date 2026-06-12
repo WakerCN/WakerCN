@@ -54,7 +54,3 @@
   <h2>最近30天动态</h2>
   <img width="100%" alt="最近30天动态" src="https://github-readme-activity-graph.vercel.app/graph?username=WakerCN&theme=radical"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WakerCN&theme=radical&no-frame=true&row=1" />
-</p>
