@@ -1,18 +1,3 @@
-<!--
-**WakerCN/WakerCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- 标题 -->
 <p align="center">
   <h1 height="200px" align="center">
@@ -45,6 +30,12 @@ Here are some ideas to get you started:
   <!-- <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint"> -->
 </div>
 
+<!-- AI 相关 -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white">
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=24&pause=3000&color=F7CF5BCD&center=true&vCenter=true&random=false&width=480&lines=%E5%BA%94%E5%A6%82%E6%83%8A%E9%B8%BF%E7%82%B9%E4%B8%87%E9%87%8C%EF%BC%8C%E8%B5%B0%E9%A9%AC%E8%A7%82%E8%8A%B1%E4%B8%8D%E6%8A%98%E6%84%8F%E3%80%82" alt="应如惊鸿点万里，走马观花不折意。" />
 </p>
@@ -55,11 +46,15 @@ Here are some ideas to get you started:
     <img margin="0 10px 0 0" height="140px" src="https://github-readme-stats.vercel.app/api?username=WakerCN&show_icons=true&theme=radical" />
   </span>
   <span>
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakerCN&layout=compact&theme=dracula&hide_border=true" /> 
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakerCN&layout=compact&theme=radical&hide_border=true" /> 
   </span>
 </span>
 
 <p>
   <h2>最近30天动态</h2>
-  <img width="100%" alt="最近30天动态" src="https://github-readme-activity-graph.vercel.app/graph?username=WakerCN&theme=dracula"/>
+  <img width="100%" alt="最近30天动态" src="https://github-readme-activity-graph.vercel.app/graph?username=WakerCN&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WakerCN&theme=radical&no-frame=true&row=1" />
 </p>
