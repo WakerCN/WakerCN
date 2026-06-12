@@ -49,17 +49,14 @@
 </p>
 
 <!-- 数据统计 -->
-<span align="center">
-  <span>
-    <img margin="0 10px 0 0" height="140px" src="https://github-readme-stats.vercel.app/api?username=WakerCN&show_icons=true&theme=radical&locale=cn" />
-  </span>
-  <span>
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakerCN&layout=compact&theme=radical&hide_border=true&locale=cn" /> 
-  </span>
-  <span>
-    <img height="140px" src="https://streak-stats.demolab.com/?user=WakerCN&theme=radical&hide_border=true" />
-  </span>
-</span>
+<div align="center">
+  <img height="170" alt="GitHub 统计" src="https://github-readme-stats.vercel.app/api?username=WakerCN&show_icons=true&theme=radical&hide_border=true&locale=cn" />
+  <img height="170" alt="最常用的语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakerCN&layout=compact&theme=radical&hide_border=true&locale=cn" />
+</div>
+
+<div align="center">
+  <img height="170" alt="连续提交统计" src="https://streak-stats.demolab.com/?user=WakerCN&theme=radical&hide_border=true&locale=zh_Hans" />
+</div>
 
 <p>
   <h2>最近30天动态</h2>
