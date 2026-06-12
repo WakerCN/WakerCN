@@ -6,6 +6,14 @@
    <p align="center">一个时而充满热情 ✨ 时而有点摸鱼 🥋 的中国前端开发者 👨‍💻</p>
 </p>
 
+<!-- 社交链接 & 访客统计 -->
+<p align="center">
+  <a href="https://www.yuque.com/star-one" target="_blank">
+    <img src="https://img.shields.io/badge/-语雀-00B96B?style=flat&logo=yuque&logoColor=white" alt="语雀主页">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=WakerCN&color=blueviolet&style=flat" alt="访问量统计">
+</p>
+
 <!--
   技术栈标签, 小标签来自: https://shields.io/
   1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
@@ -48,9 +56,21 @@
   <span>
     <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakerCN&layout=compact&theme=radical&hide_border=true&locale=cn" /> 
   </span>
+  <span>
+    <img height="140px" src="https://streak-stats.demolab.com/?user=WakerCN&theme=radical&hide_border=true" />
+  </span>
 </span>
 
 <p>
   <h2>最近30天动态</h2>
   <img width="100%" alt="最近30天动态" src="https://github-readme-activity-graph.vercel.app/graph?username=WakerCN&theme=radical"/>
+</p>
+
+<!-- 贡献蛇动画 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WakerCN/WakerCN/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WakerCN/WakerCN/output/github-contribution-grid-snake.svg" />
+    <img alt="贡献蛇动画" src="https://raw.githubusercontent.com/WakerCN/WakerCN/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
