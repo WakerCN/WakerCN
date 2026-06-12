@@ -1,9 +1,9 @@
 <!-- 标题 -->
 <p align="center">
   <h1 height="200px" align="center">
-    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm StarOne
+    你好 <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">，我是 StarOne
   </h1>
-   <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
+   <p align="center">一个时而充满热情 ✨ 时而有点摸鱼 🥋 的中国前端开发者 👨‍💻</p>
 </p>
 
 <!--
@@ -43,10 +43,10 @@
 <!-- 数据统计 -->
 <span align="center">
   <span>
-    <img margin="0 10px 0 0" height="140px" src="https://github-readme-stats.vercel.app/api?username=WakerCN&show_icons=true&theme=radical" />
+    <img margin="0 10px 0 0" height="140px" src="https://github-readme-stats.vercel.app/api?username=WakerCN&show_icons=true&theme=radical&locale=cn" />
   </span>
   <span>
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakerCN&layout=compact&theme=radical&hide_border=true" /> 
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakerCN&layout=compact&theme=radical&hide_border=true&locale=cn" /> 
   </span>
 </span>
 
